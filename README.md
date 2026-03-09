@@ -5,11 +5,16 @@ microps is an implementation of a small TCP/IP protocol stack for learning.
 
 + If you love the Go language: https://github.com/pandax381/lectcp
 + Porting to xv6: https://github.com/pandax381/xv6-net
++ Porting to xv6-riscv: https://github.com/pandax381/xv6-riscv-net
 + Porting to MikanOS: https://github.com/pandax381/mikanos-net
 
 Documents
 
-+ [Step by Step Development Guides](https://drive.google.com/drive/folders/1k2vymbC3vUk5CTJbay4LLEdZ9HemIpZe) (Japanese) 
++ [Step by Step Development Guides](https://drive.google.com/drive/folders/1k2vymbC3vUk5CTJbay4LLEdZ9HemIpZe) (Japanese)
+
+Books
+
++ [ゼロからのTCP/IPプロトコルスタック自作入門／マイナビ出版](https://book.mynavi.jp/ec/products/detail/id=149014) (Japanese)
 
 ## Features
 
